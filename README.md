@@ -1,4 +1,6 @@
 Cherenkov Telescope Gamma Radiation Classifier
+
+
 This project aims to build a gamma radiation classifier using machine learning techniques and Genetic Programming. The goal is to find the best machine learning model and its hyperparameters automatically using TPOT (Tree-based Pipeline Optimization Tool) library.
 
 Dataset
