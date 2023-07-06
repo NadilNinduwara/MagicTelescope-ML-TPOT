@@ -14,7 +14,7 @@ pandas
 numpy
 sklearn
 
-Usage
+Usage -
 Download the "MagicTelescope.csv" dataset from the Cherenkov Telescope website.
 Clone the repository to your local machine.
 Place the "MagicTelescope.csv" dataset in the project directory.
@@ -28,18 +28,18 @@ Evaluate the accuracy of the model using the validation set.
 Export the generated code for the best model and hyperparameters to "pipeline.py".
 Review the validation accuracy printed during the execution of the code.
 
-Results
+Results -
 The TPOT algorithm utilizes Genetic Programming to automatically search for the best machine learning model and its hyperparameters for the gamma radiation classification task. The validation accuracy obtained provides an estimate of the model's performance on unseen data.
 
-Contributing
+Contributing -
 Contributions to this project are welcome. If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-License
+License -
 This project is licensed under the MIT License. Feel free to use and modify the code as per the terms of the license.
 
-Acknowledgments
+Acknowledgments -
 This project utilizes the TPOT library and follows the approach provided by the Cherenkov Telescope website for gamma radiation classification.
 
-References
+References -
 TPOT: Tree-based Pipeline Optimization Tool
 Cherenkov Telescope
